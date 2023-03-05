@@ -1,0 +1,149 @@
+.main{
+    background-color:rgb(90, 90, 90) ;
+    height: 900px;
+    width: 1100px;
+    margin-left: 260px;
+    padding-bottom:90px;
+}
+.inn{
+    background-color: rgb(54, 54, 54);
+    height: 520px;
+    width: 700px;
+    margin-left: 210px;
+    padding-left: 60px;
+}
+h2{
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 100px;
+    display: inline-block;
+    color: white;
+
+}
+h1{
+    padding-top: 0px;
+    margin-left: 100px;
+    display: inline-block;
+    color: white;
+    
+}
+h3{
+    padding-top: 20px;
+    padding-left: 5px;
+    display: inline-block;
+    color: white;
+}
+h6{
+    display: inline-block;
+    padding-left: 120px;
+    word-spacing: 30px;
+    color: white;
+}
+.myphoto{
+    height: 320px;
+    width: 300px;
+    margin-left: 15px;
+    margin-top: 40px;
+    border-radius: 50%;
+    
+    
+}
+#photo{
+    display: flex;
+    align-items: center;
+}
+.pictures{
+    background-color: rgb(39, 39, 39);
+    height: 80px;
+    margin-left: 0px;
+    margin-top: 15px;
+    width: 600px;
+    position: absolute;
+}
+img{
+    height: 18px;
+    width: 90px;
+    padding-left: 10px;
+    margin-top: 20px;
+    
+}
+.last{
+    background-color: rgb(27, 27, 27);
+    height: 300px;
+    width: 760px;
+    margin-top: 0px;
+    margin-left: 210px;
+    
+}
+.one{
+    height: 60px;
+    width: 150px;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+.two{
+    height: 80px;
+    width: 160px;
+    margin-left: 0px;
+    margin-bottom: 00px;
+    padding-left: 110px;
+
+}
+
+.three{
+    height: 70px;
+    width: 150px;
+    margin-left: 00px;
+    margin-bottom: 0px;
+    padding-left: 110px;
+    display: grid;
+}
+h5{
+    padding-left: 90px;
+    color: white;
+}
+.subone{
+    height: 40px;
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: rgb(58, 58, 58);
+    display: inline-block;
+
+}
+.subtwo{
+    height: 40px;
+    width: 120px;
+    margin-top: 23px;
+    margin-left: 20px;
+    background-color: rgb(58, 58, 58);
+    display: inline-block;
+    padding-right: 0px;
+}
+.subthree{
+    height: 40px;
+    width: 90px;
+    background-color: rgb(58, 58, 58);
+    margin-left: 20px;
+    display: inline-block;
+    padding-right:30px;
+}
+.subfour{
+    height: 40px;
+    width: 120px;
+    background-color:rgb(58, 58, 58);
+    margin-left: 20px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.bottomleft{
+    width: 400px;
+    height: 100px;
+    
+}
+.bottomright{
+    display: ;
+    align-items: end;
+    padding-left: 350px;
+    margin-top: 00px;
+}
